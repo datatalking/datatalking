@@ -7,8 +7,8 @@
 - 📫 Read my blog at https://datatalking.github.io
 - If you see something you like, something is wrong or missing please email at (andrewscience304@gmail.com) subject line "Github Errata"
 
-![datatalking's github stats](https://github-readme-stats.vercel.app/api?username=datatalking&show_icons=true&theme=radical&count_private=true&show_icons=true)
+![datatalking's github stats](https://github-readme-stats.vercel.app/api?username=datatalking&show_icons=true&theme=radical&count_private=true&show_icons=true&hide_rank=True)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=datatalking&theme=radical&=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![datatalking's github stats](https://github-readme-stats.vercel.app/api?username=datatalking&show_icons=true&theme=radical&count_private=true&show_icons=true&hide=rank)
+
