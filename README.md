@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Technical data analyst with 7 years project experience 
+- 🔭 Technical Data Analyst with 11 years project experience 
 - 🌱 I’ve worked across differentiated and technically challenging projects.
 - 👯 Looking to collaborate on data cleaning, web scraping, and database automation projects.
 - 📫 How to reach me: LinkedIn (https://www.linkedin.com/in/andrewschell/) or mail me at (andrewscience304@gmail.com)
